@@ -1,0 +1,3 @@
+[submodule "modules/securitygroup"]
+	path = modules/securitygroup
+	url = https://github.com/cloudnagendra98/Terraform7-moduledemo.git
